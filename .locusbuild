@@ -1,0 +1,10 @@
+{
+  "services": {
+    "web": {
+      "path": ".",
+      "port": 8080,
+      "healthCheck": "/",
+      "startCommand": "npm run start:locus"
+    }
+  }
+}
