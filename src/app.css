@@ -1,0 +1,15 @@
+* {
+	img {
+		transform-origin: center center;
+	}
+}
+.check {
+	border: 1px solid red;
+}
+
+.check-blue {
+	border: 1px solid blue;
+}
+.noice {
+	background-image: url(/images/noise.png);
+}
