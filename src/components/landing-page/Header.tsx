@@ -7,7 +7,7 @@ function Header() {
 		<header className='absolute flex items-center justify-between w-full max-w-6xl md:top-[8vh] top-[5vh] left-1/2 -translate-x-1/2 px-4 md:px-6 lg:px-0 z-20'>
 			<div className='flex items-center gap-1'>
 				<p className='text-white font-montserrat font-medium text-xl'>
-					Resolver
+					Resolver AI
 				</p>
 			</div>
 			<div>
