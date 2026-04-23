@@ -1,4 +1,4 @@
-# Nora AI Tutor 🎓
+# Nora AI Tutorx 🎓
 
 **Making learning easy and personal through video calls that feel like chatting with a friend.**
 
